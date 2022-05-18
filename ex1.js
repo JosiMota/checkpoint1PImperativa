@@ -14,7 +14,7 @@ function microondas(comida, tempo) {
         }
     }
     else if (comida == "macarrao") {
-        if (tempo > 2 * 8 && 3 * 10) {
+        if (tempo > 2 * 8 && 3 * 8) {
             return "a comida queimou"
         }
         else if (tempo < 8) {
@@ -28,7 +28,7 @@ function microondas(comida, tempo) {
         }
     }
     else if (comida == "carne") {
-        if (tempo > 2 * 15 && 3 * 10) {
+        if (tempo > 2 * 15 && 3 * 15) {
             return "a comida queimou"
         }
         else if (tempo < 15) {
@@ -42,7 +42,7 @@ function microondas(comida, tempo) {
         }
     }
     else if (comida == "feijao") {
-        if (tempo > 2 * 12 && 3 * 10) {
+        if (tempo > 2 * 12 && 3 * 12) {
             return "a comida queimou"
         }
         else if (tempo < 12) {
@@ -56,7 +56,7 @@ function microondas(comida, tempo) {
         }
     }
     else if (comida == "brigadeiro") {
-        if (tempo > 2 * 8 && 3 * 10) {
+        if (tempo > 2 * 8 && 3 * 8) {
             return "a comida queimou"
         }
         else if (tempo < 8) {
